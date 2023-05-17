@@ -538,3 +538,7 @@ body {
 .close-modal-icon {
   fill: #2e2f42;
 }
+.backdrop.is-hidden {
+  opaсity: 0;
+  pointer-events: none;
+}
