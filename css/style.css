@@ -541,6 +541,7 @@ body {
   fill: #2e2f42;
 }
 .backdrop.is-hidden {
+  visibility: hidden;
   opaсity: 0;
   pointer-events: none;
 }
